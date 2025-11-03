@@ -1,0 +1,70 @@
+# 操作系统相关
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# 编辑器和IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.project
+.settings/
+*.sublime-project
+*.sublime-workspace
+
+# 临时文件
+*.tmp
+*.temp
+*.bak
+*.backup
+~$*
+
+# 日志文件
+*.log
+logs/
+
+# 压缩文件（通常不需要版本控制）
+*.zip
+*.rar
+*.7z
+*.tar
+*.gz
+
+# Python相关（如果有Python脚本）
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Node.js相关（如果有Node.js工具）
+node_modules/
+npm-debug.log
+yarn-error.log
+package-lock.json
+yarn.lock
+
+# 本地配置文件
+.env
+.env.local
+config.local.*
+
+# 备份和草稿
+draft/
+backup/
+*_backup.*
+*_draft.*
+
+# 个人笔记（避免提交个人草稿）
+personal_notes/
+my_notes.txt
