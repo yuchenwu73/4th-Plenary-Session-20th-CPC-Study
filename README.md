@@ -1,17 +1,17 @@
-# 数智解码“十五五”——政策解读接龙学习分享会
+# 码上悟精神，指尖传信念—党的二十届四中全会精神学习活动
 
-欢迎来到“十五五”政策学习仓库！🎯
+欢迎来到党的二十届四中全会精神学习仓库！🎯
 
 ## 📖 活动简介
 
-本仓库是计算机科学与工程学院（网络空间安全学院）研究生党务中心主办的“十五五”政策学习分享会的学习平台。我们以**政策解读接龙**的创新形式，借助GitHub平台进行协作学习，让每一位参与者在熟悉的技术环境中深入理解“十五五”规划精神。
+本仓库是计算机科学与工程学院（网络空间安全学院）研究生党务中心主办的党的二十届四中全会精神学习活动平台。我们以**政策解读接龙**的创新形式，借助GitHub平台进行协作学习，让每一位参与者在熟悉的技术环境中深入理解党的二十届四中全会精神。
 
 ### 活动特色
 
 - ✨ **技术化学习方式**：以Git版本控制形式进行政策解读，流程简洁高效
 - 💡 **碎片化时间利用**：支持随时提交，降低参与门槛
 - 🚀 **专业深度结合**：鼓励结合计算机、网络安全等专业视角解读政策
-- 📝 **集体智慧沉淀**：形成一份带有技术特色的“十五五”学习日志
+- 📝 **集体智慧沉淀**：形成一份带有技术特色的学习日志
 
 ## 🎯 参与对象
 
@@ -20,7 +20,7 @@
 ## 📂 仓库结构
 
 ```
-The-15th-Five-Year-Plan-Study/
+4th-Plenary-Session-20th-CPC-Study/
 ├── README.md              # 本文档
 ├── 参与指南.md            # 完整参与指南（含快速入门）
 ├── 政策文件/              # 政策文本目录
@@ -39,7 +39,7 @@ The-15th-Five-Year-Plan-Study/
 
 **操作步骤（简洁流程）**
 
-1. **打开Repository**：[👉 点击访问](https://github.com/yuchenwu73/The-15th-Five-Year-Plan-Study)
+1. **打开Repository**：[👉 点击访问](https://github.com/yuchenwu73/4th-Plenary-Session-20th-CPC-Study)
 2. **选择文件并编辑**：
    - 进入 `政策文件/`目录
    - 点击任意文件（如 `01-发展新质生产力.md`）
@@ -55,8 +55,8 @@ The-15th-Five-Year-Plan-Study/
 
 ```bash
 # 克隆repository
-git clone https://github.com/yuchenwu73/The-15th-Five-Year-Plan-Study.git
-cd The-15th-Five-Year-Plan-Study
+git clone https://github.com/yuchenwu73/4th-Plenary-Session-20th-CPC-Study.git
+cd 4th-Plenary-Session-20th-CPC-Study
 
 # 创建branch
 git checkout -b 你的名字-政策理解
